@@ -1,4 +1,4 @@
-me: Build Maven Project
+name: Build Maven Project
 
 on: [push]
 
